@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScreenShoter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HotKeyArea" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F7</Value>
+    </Setting>
+    <Setting Name="HotKeyBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F8</Value>
+    </Setting>
+    <Setting Name="HotKeyClip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F6</Value>
+    </Setting>
+    <Setting Name="HotKeyGlobal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

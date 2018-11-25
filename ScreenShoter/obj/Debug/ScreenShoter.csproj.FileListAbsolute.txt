@@ -1,0 +1,12 @@
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.csprojAssemblyReference.cache
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.frmCapture.resources
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.Forms.frmSettings.resources
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.Forms.SelectionBox.resources
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.Properties.Resources.resources
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.csproj.GenerateResource.cache
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.csproj.CoreCompileInputs.cache
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\bin\Debug\ScreenShoter.exe.config
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\bin\Debug\ScreenShoter.exe
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\bin\Debug\ScreenShoter.pdb
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.exe
+D:\Work\Screenshooter\ScreenShoter\ScreenShoter\obj\Debug\ScreenShoter.pdb
